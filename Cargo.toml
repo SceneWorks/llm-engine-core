@@ -1,0 +1,10 @@
+[package]
+name = "llm-engine-core"
+version = "0.0.0"
+edition = "2021"
+description = "Reserved — backend-neutral contract + host policy for an on-device LLM serving engine (placeholder; work in progress)."
+license = "Apache-2.0"
+repository = "https://github.com/SceneWorks/llm-engine-core"
+readme = "README.md"
+
+[dependencies]
